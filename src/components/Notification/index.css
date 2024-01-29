@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.heading {
+  font-size: 24px;
+  font-weight: 'Roboto';
+}
+
+.icon-close {
+  width: 30px;
+  height: 30px;
+}
